@@ -2,7 +2,7 @@
 class Database {
     //DB PArams
     private $host = 'localhost';
-    private $db_name = 'myblog';
+    private $db_name = 'donation';
     private $username = 'root';
     private $password = '';
     private $conn;
